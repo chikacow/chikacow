@@ -28,6 +28,12 @@ Currently specializing in Java-based backend development with a strong focus on 
 - 🏗️ Build real-world projects with production-ready quality
 - 🌐 Deploy secure and scalable applications using cloud platforms
 - 📚 Dive deeper into system design and distributed systems
+---
+
+## 📊 GitHub Stats
+
+![Cao Chi Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikacow&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikacow&layout=compact&theme=tokyonight)
 
 ---
 
