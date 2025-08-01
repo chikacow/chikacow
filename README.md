@@ -10,24 +10,15 @@ Currently specializing in Java-based backend development with a strong focus on 
 ## 🛠️ Tech Stack & Interests
 
 **Primary Backend Tools**  
-- 🌱 Java | Spring Framework (Boot, Security, Data JPA)  
-- 🛢️ SQL | MySQL | PostgreSQL  
-- 🧩 API design | RESTful services | Authentication & Authorization  
-- 🧪 JUnit | Mockito | Integration Testing  
-- 🐳 Docker | Git | Postman | VS Code | IntelliJ IDEA  
+- 🌱 Java | Spring Framework 
+- 🛢️ SQL | NoSQL  
+- 🧩 RESTful | GraphQL  
+- 🐳 Docker | Git | Postman | IntelliJ IDEA  
 
 **Exploring**  
 - ☁️ Cloud platforms: AWS (EC2, RDS), Google Cloud (App Engine, Cloud SQL)  
 - ☕️ Clean Architecture | DDD | Microservices | CI/CD pipelines  
 
----
-
-## 🎯 2025 Goals
-
-- 🔍 Master Spring ecosystem with advanced features (Spring Security, AOP, Messaging)
-- 🏗️ Build real-world projects with production-ready quality
-- 🌐 Deploy secure and scalable applications using cloud platforms
-- 📚 Dive deeper into system design and distributed systems
 ---
 
 ## 📊 GitHub Stats
