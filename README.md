@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Cao Chi Kien!
 
-🎓 I'm a third-year Computer Science student at the University of Engineering and Technology (UET).
+🎓 I'm a Computer Science student at the University of Engineering and Technology (UET).
 
 🚀 **Backend Developer in Progress**  
 Currently specializing in Java-based backend development with a strong focus on building scalable and maintainable systems.
